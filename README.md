@@ -9,7 +9,13 @@ AutoConnect is a complete Android Automotive-style infotainment application desi
 
 ---
 
-## Architecture Overview
+## Architecture Overview<img width="1080" height="2400" alt="setting" src="https://github.com/user-attachments/assets/3040c467-2876-4c11-9b85-1d3242e3d2ba" />
+<img width="1080" height="2400" alt="navigation" src="https://github.com/user-attachments/assets/47887aec-5c44-4bee-abf6-69634ed1e742" />
+<img width="1080" height="2400" alt="media" src="https://github.com/user-attachments/assets/84caf79f-8124-4844-a373-0327a0f5cd3d" />
+<img width="1080" height="2400" alt="vicale" src="https://github.com/user-attachments/assets/e0e4522d-a3f8-472f-887f-05d5e7d2319c" />
+<img width="1080" height="2400" alt="dashboard info" src="https://github.com/user-attachments/assets/e7b3ccc4-f46a-40a6-993f-9fc30b4d8002" />
+<img width="1080" height="2400" alt="dashboard" src="https://github.com/user-attachments/assets/abd44f23-6aaa-46ad-87bc-71331a8b52e1" />
+
 
 AutoConnect is strictly organized according to **Clean Architecture** and **MVVM** principles:
 
