@@ -1,0 +1,2 @@
+# Android-Automotive-Infotainment-Jetpack-Compose-Demo
+AutoConnect is a functional Android Automotive-style infotainment application designed to demonstrate modern Android engineering practices and automotive application concepts. The application simulates vehicle data and provides an infotainment experience including vehicle monitoring, media/audio control, navigation, settings and automated testing.
